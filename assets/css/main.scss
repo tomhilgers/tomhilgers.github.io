@@ -43,27 +43,45 @@
 ;
 
 
-.pub-entry {
-  display: flex;
-  margin-bottom: 1.5em;
+.publication{
+   display: flex;
+   gap:25px;
+   margin-bottom:40px;
+   align-items:flex-start;
 }
 
-.pub-number {
-  width: 40px;
-  font-weight: bold;
-  font-size: 1.2em;
+.publication-content{
+   flex:1;
 }
 
-.pub-content {
-  flex: 1;
+.publication-title{
+   font-size: 1.1rem;
+   font-weight:700;
+   color: #000;
+   margin: 0 0 4px 0;
+   line-height: 1.3;
 }
 
-.pub-title {
-  font-weight: bold;
+.publication-authors{
+   font-size: 1rem;
+   color: #222;
+   margin: 0 0 4px 0;
+   line-height: 1.5;
 }
 
-.pub-links a,
-.pub-links button {
-  margin-right: 10px;
-  font-size: 0.9em;
+.publication-venue{
+   font-size: 0.95rem;
+   font-style: italic;
+   color: #444;
+   margin: 0 0 8px 0;
+   background: none;
+   padding: 0;
+   border: none;
+}
+
+.publication-links{
+   display:flex;
+   flex-wrap:wrap;
+   gap:8px;
+   align-items:center;
 }
