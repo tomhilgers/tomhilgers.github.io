@@ -41,3 +41,29 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.pub-entry {
+  display: flex;
+  margin-bottom: 1.5em;
+}
+
+.pub-number {
+  width: 40px;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-title {
+  font-weight: bold;
+}
+
+.pub-links a,
+.pub-links button {
+  margin-right: 10px;
+  font-size: 0.9em;
+}
