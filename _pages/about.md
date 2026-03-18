@@ -31,10 +31,11 @@ Publications
 
 <article class="publication">
   <div class="publication-content">
-  <h3 class="publication-title"> Paper A </h3>
-  <p class="publication-authors"> asd asd as</p>
-  <div class="publication-venue"> as as </div>
-  <div class="publication-links"> asdas </div>
+    <h3 class="publication-title"> Paper A </h3>
+    <p class="publication-authors"> asd asd as</p>
+    <div class="publication-venue"> as as </div>
+    <div class="publication-links"> asdas </div>
+  </div>
 </article>
 
 
