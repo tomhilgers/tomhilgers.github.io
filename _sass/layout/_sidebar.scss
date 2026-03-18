@@ -9,6 +9,8 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   border-right: 1px solid var(--global-border-color);
+  padding-right: 1.5rem;
 
   @include clearfix();
   margin-bottom: 1em;
