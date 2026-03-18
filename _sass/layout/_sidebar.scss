@@ -311,7 +311,10 @@
   }
 
   a {
-    display: block;
+    display: flex;           // make icon + text a row
+  align-items: flex-start; // align icon with first line
+  gap: 0.5rem;             // space between icon and text
+  word-break: break-word;  // allow wrapping
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
@@ -323,5 +326,9 @@
     &:hover {
       text-decoration: underline;
     }
+     i {
+  flex-shrink: 0;          // icon keeps its width
+  width: 1.2rem;           // fixed width for alignment
+}
   }
 }
