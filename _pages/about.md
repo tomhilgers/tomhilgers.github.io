@@ -29,6 +29,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem ex, bland
 Publications
 ======
 
+
+### Paper A
+
+<p>
+author a, author b, author c
+</p>
+
+
+
  {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
