@@ -29,14 +29,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem ex, bland
 Publications
 ======
 
-<article class="publication">
-  <div class="publication-content">
-    <h3 class="publication-title"> Paper A </h3>
-    <p class="publication-authors"> asd asd as</p>
-    <div class="publication-venue"> as as </div>
-    <div class="publication-links"> asdas </div>
-  </div>
-</article>
+
+  <article class="publication">
+    <div class="publication-content">
+      <h3 class="publication-title"> Paper A </h3>
+      <p class="publication-authors"> asd asd as</p>
+      <div class="publication-venue"> as as </div>
+      <div class="publication-links"> asdas </div>
+    </div>
+  </article>
+
+  Paper A
+  ------
+  Author
+
+  Conf
+
+  
 
 
  {% for post in site.publications reversed %}
@@ -44,7 +53,6 @@ Publications
   {% endfor %}
 
 
-{% for post in site.publications reversed %}
   <div class="pub-entry">
     <div class="pub-number">
       {{ forloop.index }}
@@ -82,4 +90,3 @@ Publications
       {% endif %}
     </div>
   </div>
-{% endfor %}
