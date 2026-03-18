@@ -29,13 +29,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem ex, bland
 Publications
 ======
 
-
-### Paper A
-
-<p>
-author a, author b, author c
-</p>
-
+<article class="publication">
+  <div class="publication-content">
+  <h3 class="publication-title"> Paper A </h3>
+  <p class="publication-authors"> asd asd as</p>
+  <div class="publication-venue"> as as </div>
+  <div class="publication-links"> asdas </div>
+</article>
 
 
  {% for post in site.publications reversed %}
