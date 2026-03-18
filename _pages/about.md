@@ -31,3 +31,44 @@ Publications
  {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+
+
+{% for post in site.publications reversed %}
+  <div class="pub-entry">
+    <div class="pub-number">
+      {{ forloop.index }}
+    </div>
+
+    <div class="pub-content">
+      <div class="pub-title">
+        {{ post.title }}
+      </div>
+
+      <div class="pub-authors">
+        {{ post.authors }}
+      </div>
+
+      <div class="pub-venue">
+        {{ post.venue }} ({{ post.year }})
+      </div>
+
+      <div class="pub-links">
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}">PDF</a>
+        {% endif %}
+        {% if post.doi %}
+          <a href="https://doi.org/{{ post.doi }}">DOI</a>
+        {% endif %}
+        {% if post.citation %}
+          <button onclick="toggleCitation('{{ forloop.index }}')">Cite</button>
+        {% endif %}
+      </div>
+
+      {% if post.citation %}
+        <div id="cite-{{ forloop.index }}" style="display:none;">
+          {{ post.citation }}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
