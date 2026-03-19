@@ -18,15 +18,15 @@ Research Interests
  
 Education
 ------
-**M.Sc. in Computer Science**  
-  RWTH Aachen University, with distinction  
-  Thesis: *Coupling Turbulent Boundary Layer Flow Simulation with a Transformer*  
-  January 2023 -- December 2025  
+- **M.Sc. in Computer Science**
+    - RWTH Aachen University, with distinction  
+    - Thesis: *Coupling Turbulent Boundary Layer Flow Simulation with a Transformer*
+    - January 2023 -- December 2025  
   
-**B.Sc. in Computer Science**
-- RWTH Aachen University
-- Thesis: *Designing a Static Performance Model and Code Generation for Vector Accelerators and Parallel Patterns*
-- October 2019 -- January 2023 
+- **B.Sc. in Computer Science**
+    - RWTH Aachen University
+    - Thesis: *Designing a Static Performance Model and Code Generation for Vector Accelerators and Parallel Patterns*
+    - October 2019 -- January 2023 
 
 Supervision of Theses
 ------
