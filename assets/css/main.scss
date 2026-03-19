@@ -92,4 +92,28 @@
       color: #2563eb;
       font-weight:500;
    }
+
+   .details{
+      display: inline-block;
+
+      .summary{
+         list-style: none;
+         cursor: pointer;
+         font-size: 0.9em;
+         color: #2563eb;
+         font-weight: 500;
+      }
+
+      .pre{
+         background: #f7fafc;
+         border: 1px solid #edf2f7;
+         padding: 15px;
+         font-size:0.8em;
+         white-space: pre-wrap;
+         margin-top: 10px;
+         color: #4a5568;
+         display:block;
+         width:100%;
+      }
+   }
 }
