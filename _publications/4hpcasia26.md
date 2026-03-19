@@ -2,7 +2,7 @@
 title: "Hybrid Inference Optimization for AI-Enhanced Turbulent Boundary Layer Simulation on Heterogeneous Systems"
 authors: "Fabian Orland, <b>Tom Hilgers</b>, Fabian Hübenthal, Rakesh Sarma, Andreas Lintermann, and Christian Terboven"
 year: "2026"
-venue: 'SCA/HPCAsiaWS'
+venue: 'SCA/HPCAsia'
 doi: "10.1145/3784828.3785255"
 bibtex: "@inproceedings{orlandmmcp26,
   author = {Orland, Fabian and Hilgers, Tom and H\"{u}benthal, Fabian and Sarma, Rakesh and Lintermann, Andreas and Terboven, Christian},
