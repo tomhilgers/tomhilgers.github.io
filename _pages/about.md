@@ -40,7 +40,7 @@ Publications
             <a href="{{post.paperurl}}" target="_blank" rel="noopener noreferrer">[PDF]</a>  
           {% endif %}
           {% if post.doi %}
-            <a href="doi.org/{{post.doi}}" target="_blank" rel="noopener noreferrer">[DOI]</a>  
+            <a href="https://doi.org/{{post.doi}}" target="_blank" rel="noopener noreferrer">[DOI]</a>  
           {% endif %}
           {% if post.code %}
             <a href="{{post.code}}" target="_blank" rel="noopener noreferrer">[Code]</a>  
