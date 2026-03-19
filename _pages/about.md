@@ -29,6 +29,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem ex, bland
 Publications
 ======
 
+<ul>
+  {% for post in site.publications reversed %}      
+     <li>
+        <h3 class="publication-title"> {{ post.title }}</h3>
+        <div class="publication-authors"> {{ post.authors }}</div>
+        <div class="publication-venue"> {{ post.venue }} ({{ post.year }}) </div>
+        <div class="publication-links"> asdas </div>
+     </li>
+  {% endfor %}   
+</ul>
 
   <article class="publication">
     <div class="publication-content">
