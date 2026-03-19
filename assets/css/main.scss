@@ -86,17 +86,17 @@
    gap:8px;
    align-items:center;
 
-   .a {
+   a {
       text-decoration: none;
       font-size: 0.9em;
       color: #2563eb;
       font-weight:500;
    }
 
-   .details{
+   details{
       display: inline-block;
 
-      .summary{
+      summary{
          list-style: none;
          cursor: pointer;
          font-size: 0.9em;
@@ -104,7 +104,7 @@
          font-weight: 500;
       }
 
-      .pre{
+      pre{
          background: #f7fafc;
          border: 1px solid #edf2f7;
          padding: 15px;
