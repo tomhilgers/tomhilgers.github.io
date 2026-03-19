@@ -9,28 +9,29 @@ redirect_from:
 
 About
 =====
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem ex, blandit vel ex sit amet, accumsan suscipit ante. Donec rutrum dolor id nisl blandit, quis cursus nunc sodales. Maecenas mollis, arcu quis elementum varius, metus justo varius justo, mollis porttitor ipsum neque eget risus. Aliquam erat volutpat. Mauris placerat sem nec felis auctor, eleifend vulputate lectus imperdiet. Donec at nunc quis tortor rhoncus 
+Since April 2026, I am a researcher and Ph.D. student at the Chair for High Performance Computing at RWTH Aachen University. I graduated with an M.Sc. in 2026 and with a B.Sc. in 2023, both from RWTH Aachen University.
 
 Research Interests
 ------
-- asdasd
-- asdasdasd
+- Energy Efficient Machine Learning
+- Machine Learning in Science
+- TBD ...
  
 Education
 ------
 - **M.Sc. in Computer Science**
     - RWTH Aachen University, with distinction  
     - Thesis: *Coupling Turbulent Boundary Layer Flow Simulation with a Transformer*
-    - January 2023 -- December 2025  
+    - 2023 -- 2025  
   
 - **B.Sc. in Computer Science**
     - RWTH Aachen University
     - Thesis: *Designing a Static Performance Model and Code Generation for Vector Accelerators and Parallel Patterns*
-    - October 2019 -- January 2023 
+    - 2019 -- 2023 
 
 Supervision of Theses
 ------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem ex, blandit vel ex sit amet, accumsan suscipit ante. Donec rutrum dolor id nisl blandit, quis cursus nunc sodales. Maecenas mollis, arcu quis elementum varius, metus justo varius justo, mollis porttitor ipsum neque eget risus. Aliquam erat volutpat. Mauris placerat sem nec felis auctor, eleifend vulputate lectus imperdiet. Donec at nunc quis tortor rhoncus 
+Please inquire via <a href="mailto:contact@hpc.rwth-aachen.de">contact@hpc.rwth-aachen.de</a> for currently available thesis topics or to propose your own. Please include a short list of your interests, prior experience and transcript of records.
 
 ******
 
