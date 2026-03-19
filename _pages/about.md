@@ -34,13 +34,13 @@ Publications
      <li>
         <h3 class="publication-title"> {{ post.title }}</h3>
         <div class="publication-authors"> {{ post.authors }}</div>
-        <div class="publication-venue"> {{ post.venue }} ({{ post.year }}) </div>
+        <div class="publication-venue"> {{ post.venue }}, {{ post.year }} </div>
         <div class="publication-links"> 
           {% if post.paperurl %}
             <a href="{{post.paperurl}}" target="_blank" rel="noopener noreferrer">[PDF]</a>  
           {% endif %}
           {% if post.doi %}
-            <a href="{{post.doi}}" target="_blank" rel="noopener noreferrer">[DOI]</a>  
+            <a href="doi.org/{{post.doi}}" target="_blank" rel="noopener noreferrer">[DOI]</a>  
           {% endif %}
           {% if post.code %}
             <a href="{{post.code}}" target="_blank" rel="noopener noreferrer">[Code]</a>  
