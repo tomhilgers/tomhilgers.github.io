@@ -57,7 +57,7 @@ Publications
           {% if post.bibtex %}
             <details>
               <summary>[BibTeX]</summary>
-              {{post.bibtex}}
+              <pre>{{post.bibtex}}</pre>
             </details>  
           {% endif %}
         </div>
