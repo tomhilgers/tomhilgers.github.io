@@ -9,7 +9,7 @@ redirect_from:
 
 About
 =====
-Since April 2026, I am a researcher and Ph.D. student at the Chair for High Performance Computing at RWTH Aachen University. I graduated with an M.Sc. in 2026 and with a B.Sc. in 2023, both from RWTH Aachen University.
+Since April 2026, I am a researcher and PhD student at the Chair for High Performance Computing at RWTH Aachen University. I graduated with an M.Sc. in 2026 and with a B.Sc. in 2023, both from RWTH Aachen University.
 
 Research Interests
 ------
@@ -21,12 +21,12 @@ Education
 ------
 - **M.Sc. in Computer Science**
     - RWTH Aachen University, with distinction  
-    - Thesis: *Coupling Turbulent Boundary Layer Flow Simulation with a Transformer*
+    - Thesis: <a href="https://publications.rwth-aachen.de/record/1023684" target="_blank" rel="noopener noreferrer">*Coupling Turbulent Boundary Layer Flow Simulation with a Transformer*</a>
     - 2023 -- 2025  
   
 - **B.Sc. in Computer Science**
     - RWTH Aachen University
-    - Thesis: *Designing a Static Performance Model and Code Generation for Vector Accelerators and Parallel Patterns*
+    - Thesis: <a href="https://publications.rwth-aachen.de/record/953804" target="_blank" rel="noopener noreferrer">*Designing a Static Performance Model and Code Generation for Vector Accelerators and Parallel Patterns*</a>
     - 2019 -- 2023 
 
 Supervision of Theses
